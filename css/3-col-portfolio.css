@@ -1,0 +1,19 @@
+/*!
+ * Start Bootstrap - 3 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+.bottle-position {
+    padding-left: 90px;
+}
+
+
+.portfolio-item {
+    margin-bottom: 15px;
+    margin-left:0px;
+    padding-top: 20px;
+}
+
+footer {
+    margin: 50px 0;
+}

@@ -1,0 +1,79 @@
+
+Bootstrap Menu Builder
+BuilderPreviewHTMLCSS
+
+
+#custom-bootstrap-menu.navbar-default .navbar-brand-center{
+    padding-left: 0px;
+
+}
+
+#custom-bootstrap-menu.navbar-default {
+    background-color: rgba(248, 248, 248, 0);
+    border-bottom-width: 0px;
+
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav {
+    padding-top: 150px;
+    padding-left: -40px;
+    font-size: 50px;
+    background-color: rgba(248, 248, 248, 0);
+    border-bottom-width: 0px;
+    font-family: 'Phosphate';
+}
+
+
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(13, 117, 179, 1);
+    background-color: rgba(13, 117, 179, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(13, 117, 179, 1);
+    background-color: rgba(231, 231, 231, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #888;
+}
+
+body {
+    background-image:url("../img/paperBackground.jpg");
+}
+
+
+.col-md-8{
+    padding: 25px;
+}
+
+.col-md-4 {
+    padding-left: 0px;
+
+}
+
+
+#owl-demo .item img{
+    padding-top: 150px;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
